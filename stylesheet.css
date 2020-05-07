@@ -43,9 +43,13 @@ navbar {
     padding-right: 10px;
     
 }
+ul {
+    margin: 0;
+}
 
 li {
     float: left;
+    margin: 0;
 }
 
 li a {
@@ -146,15 +150,15 @@ input:focus::placeholder {
         width: 85px;
     }
     #footer-right {
-        font-size: 7px;
+        font-size: 9px;
     }
     #footer-left {
-        font-size: 7px;
+        font-size: 9px;
     }
     #nav-right {
-        font-size: 7px;
+        font-size: 9px;
     }
     #nav-left {
-        font-size: 7px;
+        font-size: 9px;
     }
 }
